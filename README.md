@@ -1,3 +1,10 @@
+# Roulette Application
+![](public/img1.png)
+![](public/img2.png)
+
+## Username: banker@casino.com
+## Password:roulette
+
 ## Installation
 
 1. Clone repo
