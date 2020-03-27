@@ -3,7 +3,7 @@
 ![](public/img2.png)
 
 ## Username: banker@casino.com
-## Password:roulette
+## Password: roulette
 
 ## Installation
 
